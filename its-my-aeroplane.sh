@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Clone from manual page (RTFM)
 # 
 # Author: Tan Sri Dato' Ir. Adli (Member of International Council on Systems Engineering)
